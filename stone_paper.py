@@ -12,6 +12,7 @@ class RockPaperScissors:
         
         # Scores
         self.player_score = 0
+        
         self.computer_score = 0
         self.ties = 0
         
